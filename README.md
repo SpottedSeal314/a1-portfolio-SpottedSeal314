@@ -19,7 +19,7 @@ To enable GitHub Pages for this repository, follow these steps:
    - This allows the workflow to deploy the site
 
 3. **The workflow will automatically deploy** when:
-   - Code is pushed to the `main` or `copilot/connect-repo-using-github-pages` branches
+   - Code is pushed to the `main` or `master` branches
    - You can also manually trigger it from the "Actions" tab
 
 4. **Access Your Site**:
