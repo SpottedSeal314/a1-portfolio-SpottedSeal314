@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - copilot/connect-repo-using-github-pages
   workflow_dispatch:
 
 permissions:
